@@ -4,7 +4,7 @@ Build a table to hold and display the data we want to work with. Then we will ad
 ## Purpose of Analysis
 The purpose is to provide more in-depth analysis of UFO sightings by allowing users to filter multiple criteria at the same time. 
 # Results
-Users are able to refine their search by four different criterias:
+Users are able to refine their search by five different criterias:
 - date
 - city
 - state
@@ -31,7 +31,7 @@ User can input a shape name on the "Enter Shape" field and press Enter. The resu
 To reset table to unfiltered state, user can delete search criteria for search field and press Enter. This will return the table to the unfiltered state.
 # Summary
 ## Drawback
-- A drawback from the webpage is it's inability to allow users to download the results.
+- A drawback from the webpage is it's inability to allow users to download the results. Further analysis by third parties will be limited due to the inability to further manipulate the data.
 ## Recommendations for further development
 - We recommend adding a reload button to reset the table to its unfiltered state as opposed to deleting the search criteria from the search field. A refresh button is more intuitive for users and commonly used on other interfaces. 
 - We recommend displaying the total number of filtered results out of the total number of unfiltered results at the bottom if the filtered table. This will allow users to easily quantify results based on search criteria and potentially use the results for further analysis.
