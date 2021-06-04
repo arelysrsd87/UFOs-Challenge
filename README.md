@@ -25,8 +25,8 @@ User can input a country name, again, using the two-letter code on the "Enter Co
 ## Search by shape
 User can input a shape name on the "Enter Shape" field and press Enter. The results will filter accordingly and displayed on the filtered table. Example for the triangle shape:
 ![triangle](https://github.com/arelysrsd87/UFOs-Challenge/blob/main/images/triangle.png).
-## Reset table to unfilted state
-To reset table to unfiltered state, user can delete 
+## Reset table to unfiltered state
+To reset table to unfiltered state, user can delete search criteria for search field and press Enter. This will return the table to the unfiltered state.
 # Summary
 ## Drawback
 - 
