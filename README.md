@@ -12,19 +12,19 @@ Users are able to refine their search by four different criterias:
 - shape
 ## Search by date
 User can input a date using the MM/DD/YYYY format on the "Enter Date" field and press Enter. The results will filter accondingly and displayed on the table. Example for 1/4/2010:
-![Image for 1/4/2010]().
+![Image for 1/4/2010](https://github.com/arelysrsd87/UFOs-Challenge/blob/main/images/1_4_2010.png).
 ## Search by city
 User can input city name on the "Enter City" field and press Enter. The reults will filter accondingly and displayed on the table. Example for the city of Sacramento:
-![Sacramento]().
+![Sacramento](https://github.com/arelysrsd87/UFOs-Challenge/blob/main/images/Sacramento.png).
 ## Search by state
 User can input a state name using the two-letter code on the "Enter State" field and press Enter. The results will filter accondingly and displayed on the table. Example for the state of Florida (fl):
-![Florida]().
+![Florida](https://github.com/arelysrsd87/UFOs-Challenge/blob/main/images/Florida.png).
 ## Search by country
 User can input a country name, again, using the two-letter code on the "Enter Country" field and press Enter. The results will filter accordingly and displayed on the table. Example for the country of United States (us):
-![US]().
+![US](https://github.com/arelysrsd87/UFOs-Challenge/blob/main/images/US.png).
 ## Search by shape
 User can input a shape name on the "Enter Shape" field and press Enter. The results will filter accordingly and displayed on the filtered table. Example for the triangle shape:
-![triangle]().
+![triangle](https://github.com/arelysrsd87/UFOs-Challenge/blob/main/images/triangle.png).
 ## Reset table to unfilted state
 To reset table to unfiltered state, user can delete 
 # Summary
